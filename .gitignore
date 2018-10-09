@@ -7,3 +7,6 @@ gen
 
 # maven build files
 target/
+
+# mac finder files
+.DS_Store
